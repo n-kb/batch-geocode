@@ -36,7 +36,7 @@
     </section>
     <footer class="footer">
       <p>
-        Ce service a été programmé par <a href="http://nkb.fr">Nicolas Kayser-Bril</a> et utilise le géocodeur de <a href="https://nominatim.openstreetmap.org/">Nominatim</a>. 
+        Ce service a été programmé par <a href="http://nkb.fr">Nicolas Kayser-Bril</a> et utilise le géocodeur de <a href="https://nominatim.openstreetmap.org/">Nominatim</a>. <a href="https://github.com/n-kb/batch-geocode">Still ♡ Github</a>.
       </p>
       <p>
         Il s'inspire du <a href="https://www.findlatitudeandlongitude.com/batch-geocode/">Batch Geocoder</a> de David B. Zwiefelhofer.
