@@ -1,6 +1,6 @@
-# batch-geocode
+# Géocodeur en masse
 
-> A Vue.js project
+Géocode des adresses en utilisant Nominatim.
 
 ## Build Setup
 
